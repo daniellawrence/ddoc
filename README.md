@@ -3,6 +3,8 @@ Dynamic Documentation
 
 Making documentation friendly & fun...
 
+slides: https://www.slideshare.net/DanielDannyLawrence/dynamic-documentation-srecon-2017
+
 Copy everything below in order to have the wiki page be dynamic!
 
 
